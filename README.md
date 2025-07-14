@@ -45,7 +45,7 @@ pip install pyvisa pyvisa-py nidaqmx numpy matplotlib
 
 ### From Command Line
 ```bash
-python Mag_Response.py
+python Mag_Response_1.0.0.py
 ```
 
 ## 6. User Guide
